@@ -1,0 +1,1 @@
+This is the Monkeypox analysis for the bachelors thesis. This repository includes Jupyter notebooks with the data preparation, data analysis and neural networks models to predict future data. There is 'sequences.csv' input file for the data preparation part. Sadly, 'sequences.fasta' file is too big to upload, but it can be downloaded from the NCBI Virus database.
